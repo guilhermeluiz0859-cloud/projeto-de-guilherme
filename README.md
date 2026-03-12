@@ -1,2 +1,2 @@
 # projeto-de-guilherme
-projeto ia guilherme
+projeto-ia-guilherme
